@@ -1,0 +1,12 @@
+{
+  "name": "cloud-k8s-app",
+  "version": "1.0.0",
+  "description": "Node.js app for AWS + Docker + Kubernetes project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
