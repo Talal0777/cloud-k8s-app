@@ -35,7 +35,6 @@ Laptop  -->  Docker image  -->  Amazon ECR  -->  EC2 (Minikube)  -->  Browser
 ​```bash
 npm install
 npm start
-# open http://localhost:3000
 ​```
 
 Or with Docker:
@@ -65,5 +64,3 @@ App becomes available at `http://<EC2_PUBLIC_IP>:30080`.
 Node.js · Express · Docker · Amazon ECR · Kubernetes (Minikube) · AWS EC2 (Free Tier)
 
 ---
-
-*Created for a university Cloud Computing project.*
